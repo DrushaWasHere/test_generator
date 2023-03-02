@@ -1,0 +1,6 @@
+/home/lenovo/CLionProjects/Tests/cmake-build-debug/CMakeFiles/true_solution.dir
+/home/lenovo/CLionProjects/Tests/cmake-build-debug/CMakeFiles/main.dir
+/home/lenovo/CLionProjects/Tests/cmake-build-debug/CMakeFiles/test_generator.dir
+/home/lenovo/CLionProjects/Tests/cmake-build-debug/CMakeFiles/fake_solution.dir
+/home/lenovo/CLionProjects/Tests/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lenovo/CLionProjects/Tests/cmake-build-debug/CMakeFiles/rebuild_cache.dir
